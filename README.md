@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ctop-tech.com"><img src="https://img.shields.io/badge/CTOP_TECH-18181B?style=for-the-badge&amp;logoColor=white" alt="CTOP Tech"></a>
-  <a href="mailto:contacto@ctop-tech.com"><img src="https://img.shields.io/badge/CONTACTO-B91C1C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo de contacto"></a>
+  <a href="https://github.com/Caludi0"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Perfil de GitHub"></a>
+  <a href="https://github.com/Caludi0?tab=repositories"><img src="https://img.shields.io/badge/PROYECTOS-B91C1C?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositorios públicos"></a>
 </p>
 
 ## Sobre mí
 
 Soy **Claudio Lizana Tobar**, Ingeniero en Informática, desde Puerto Montt, Chile.
 
-Trabajo en desarrollo de software y en mi empresa **CTOP Tech**, con foco en soluciones web para pymes y pequeñas empresas. Me interesa construir herramientas útiles, mantener el código organizado y documentar las decisiones que permiten continuar un proyecto.
+Me enfoco en el desarrollo de software y soluciones web para apoyar procesos de negocio. Me interesa construir herramientas útiles, mantener el código organizado y documentar las decisiones que permiten continuar un proyecto.
 
 ## En qué me enfoco
 
@@ -23,7 +23,6 @@ Trabajo en desarrollo de software y en mi empresa **CTOP Tech**, con foco en sol
 
 | Espacio | Qué encontrarás |
 | :--- | :--- |
-| [CTOP Tech](https://www.ctop-tech.com) | Sitio de mi empresa y presentación de servicios tecnológicos. |
 | [Prácticas Java](https://github.com/Caludi0/Practicas-Java) | Repositorio de aprendizaje de Java. |
 | [Práctica HTML y CSS](https://github.com/Caludi0/Practica-HTML-CSS) | Espacio destinado a material y ejercicios de desarrollo web. |
 
@@ -33,6 +32,6 @@ Parte de mi trabajo está sujeta a acuerdos de confidencialidad. Por ese motivo,
 
 ## Conversemos
 
-¿Tienes un proyecto o una oportunidad profesional?
+¿Tienes una oportunidad profesional en desarrollo de software?
 
-**[contacto@ctop-tech.com](mailto:contacto@ctop-tech.com)** · **[www.ctop-tech.com](https://www.ctop-tech.com)**
+Puedes conocer mis proyectos y mi trabajo en **[GitHub](https://github.com/Caludi0)**.
