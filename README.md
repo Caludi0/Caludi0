@@ -19,6 +19,12 @@ Me enfoco en el desarrollo de software y soluciones web para apoyar procesos de 
 - **Python:** programación y automatización de tareas.
 - **Organización del software:** modularización, separación de responsabilidades y documentación.
 
+## Lenguajes y tecnologías que manejo
+
+| HTML | CSS | JavaScript | Java | Python | PHP | TypeScript | SQL | C# |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="Logo de HTML"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="Logo de CSS"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="Logo de JavaScript"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Logo de Java"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Logo de Python"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="Logo de PHP"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="Logo de TypeScript"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Icono de base de datos SQL"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="Logo de C#"> |
+
 ## Proyectos y aprendizaje
 
 | Espacio | Qué encontrarás |
