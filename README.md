@@ -27,10 +27,7 @@ Me enfoco en el desarrollo de software y soluciones web para apoyar procesos de 
 
 ## Proyectos y aprendizaje
 
-| Espacio | Qué encontrarás |
-| :--- | :--- |
-| [Prácticas Java](https://github.com/Caludi0/Practicas-Java) | Repositorio de aprendizaje de Java. |
-| [Práctica HTML y CSS](https://github.com/Caludi0/Practica-HTML-CSS) | Espacio destinado a material y ejercicios de desarrollo web. |
+[AquaMonitorSimulator](https://github.com/Caludi0/AquaMonitorSimulator)
 
 ### Experiencia y confidencialidad
 
