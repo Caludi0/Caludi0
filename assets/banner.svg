@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Claudio Lizana Tobar</title>
+  <desc id="desc">Ingeniero en Informática. Desarrollo de software y soluciones web. Puerto Montt, Chile.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090b"/><stop offset="1" stop-color="#241014"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="20" fill="url(#grid)"/>
+  <path d="M940 0h130L870 330H740Z" fill="#dc2626" opacity=".08"/>
+  <path d="M1110 0h35L945 330h-35Z" fill="#ef4444" opacity=".14"/>
+  <rect x="60" y="65" width="48" height="5" rx="2" fill="#ef4444"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="112" font-size="15" letter-spacing="4" fill="#f87171">CALUDI0 / SOFTWARE DEVELOPER</text>
+    <text x="57" y="180" font-size="53" font-weight="700" fill="#fafafa">Claudio Lizana Tobar</text>
+    <text x="60" y="224" font-size="24" fill="#d4d4d8">Ingeniero en Informática</text>
+    <text x="60" y="277" font-size="16" fill="#a1a1aa">DESARROLLO DE SOFTWARE  /  SOLUCIONES WEB  /  CHILE</text>
+    <text x="1000" y="190" font-size="76" fill="#ef4444" opacity=".8" font-weight="700">&lt;/&gt;</text>
+  </g>
+</svg>
